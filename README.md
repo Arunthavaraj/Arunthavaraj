@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here, you’ll find projects and dashboards showca
 - 💼 **Experience:** Former SAP Consultant with expertise in ERP systems and cloud computing.  
 - 🛠️ **Tech Stack:** Python | R | Java | SQL | Tableau | Power BI | Flutter | AWS.  
 - 🎯 **Interests:** Data visualisation, machine learning, cloud computing, and business analytics.  
-- 🏆 **Highlights:** Certified in AWS Cloud, SAP Technologies, and Microsoft Power Platform.
+- 🏆 **Highlights:** Certified in AWS Cloud, SAP Technologies, Microsoft Power Platform and Microsoft Office Specialist (Excel).
 
 ---
 
