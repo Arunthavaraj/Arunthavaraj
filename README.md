@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here, you’ll find projects and dashboards showca
 
 ## 🔍 Featured Projects
 Here are a few highlights of my work:
-- **Customer Churn Analysis:** Identified key drivers of churn and developed strategies to improve customer retention.  
+- **Customer Churn Prediction:** Identified key drivers of churn and developed strategies to improve customer retention.  
 - **Predicting ICO Success:** Used machine learning to forecast ICO outcomes, recommending data-driven strategies for fundraising.  
 - **Unsupervised Learning for Rainfall Analysis (Dissertation):** Applied clustering techniques to classify rainfall patterns across the UK.  
 - **COVID-19 X-ray Classification:** Developed an Android application for classifying COVID-19 X-rays using TensorFlow Lite.
